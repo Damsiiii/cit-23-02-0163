@@ -33,4 +33,3 @@ A simple Flask web app that stores a visit count in a MySQL database. The DB dat
 
 ## Notes
 - Change host port mapping in docker-compose if ports conflict.
-- Credentials in docker-compose are for assignment/demo only; do not use in production.
